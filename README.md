@@ -19,21 +19,27 @@ Profile Management: Users can view and update their profile information, includi
 Technologies Used:
 
 Backend: Spring Boot
+
 Frontend: Thymeleaf, HTML, CSS, JavaScript (Bootstrap)
+
 Database: PostgreSQL
 
 Setup:
 
 Clone the Repository:
+
 git clone https://github.com/your-username/college-directory.git
 
 Set Up the Database:
 
 Create a PostgreSQL database and user.
+
 Configure application.properties with your database details.
+
 Run the Application:
 
 Navigate to the project directory.
+
 Use Maven or Gradle to build and run the application:
 
 mvn spring-boot:run
@@ -41,7 +47,9 @@ mvn spring-boot:run
 Access the Application:
 
 Open your web browser and navigate to http://localhost:8080 to view the application.
+
 Contribution
+
 Contributions are welcome! If you happen to have any issues or have suggestions for improvements, please don't hesitate to contact me.
 
 Note: If you find any errors or have any questions, please write to me at iamshivam7050@gmail.com. I appreciate your feedback and am happy to assist with any issues you may encounter.
